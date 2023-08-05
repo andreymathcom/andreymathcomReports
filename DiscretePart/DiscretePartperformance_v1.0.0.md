@@ -13,3 +13,5 @@ conv|organs_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </
 conv|pneumonia_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody></tbody></table>|784|2|0.00|0.00|V1.0.0
 2_Dense|oct_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>4-95</td></tr><tr><td>1</td> <td>253-255</td></tr></tbody></table>|784|4|0.58|0.38|V1.0.0
 conv|oct_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>4-95</td></tr><tr><td>1</td> <td>253-255</td></tr></tbody></table>|784|4|0.79|0.53|V1.0.0
+2_Dense|tissue_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>0-75</td></tr></tbody></table>|784|8|0.36|0.37|v1.0.0
+conv|tissue_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>0-75</td></tr></tbody></table>|784|8|0.45|0.42|v1.0.0
