@@ -15,3 +15,9 @@ conv|pneumonia_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th> 
 conv|oct_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>4-95</td></tr><tr><td>1</td> <td>253-255</td></tr></tbody></table>|784|4|0.79|0.53|V1.0.0
 2_Dense|tissue_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>0-75</td></tr></tbody></table>|784|8|0.36|0.37|v1.0.0
 conv|tissue_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>0-75</td></tr></tbody></table>|784|8|0.45|0.42|v1.0.0
+2_Dense|organA_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[113]</td></tr><tr><td>2</td> <td>[255]</td></tr></tbody></table>|784|11|0.99|0.60|v1.0.0
+conv|organA_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[113]</td></tr><tr><td>2</td> <td>[255]</td></tr></tbody></table>|784|11|0.82|0.62|v1.0.0
+2_Dense|organC_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[255]</td></tr></tbody></table>|784|11|0.92|0.63|v1.0.0
+conv|organC_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[255]</td></tr></tbody></table>|784|11|0.80|0.63|v1.0.0
+2_Dense|organS_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[255]</td></tr></tbody></table>|784|11|0.93|0.45|v1.0.0
+conv|organS_medMNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>[255]</td></tr></tbody></table>|784|11|0.71|0.50|v1.0.0
