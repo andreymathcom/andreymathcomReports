@@ -1,4 +1,6 @@
+
 # Table of performance results for Discrete part
+## Any questions please address to andreymath@andreymath.com
 Model | dataset |  DP classes | input size | output size |train acc | test acc | code tag
 --- | --- | --- | --- | --- | --- | --- | --- 
 2_Dense|MNIST|<table><thead>  <tr>  <th> Class </th>  <th>Values</th>  </tr>  </thead><tbody><tr><td>0</td> <td>[0]</td></tr><tr><td>1</td> <td>251-255</td></tr></tbody></table>|784|10|0.43|0.46|V1.0.0
